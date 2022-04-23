@@ -39,13 +39,13 @@ uglyUrls: false
 stream: false
 
 # True to enable remux mode (merge best audio and best video)
-remux: false
+remux: true
 
 # MP3 bitrate when converting (in kbit/s)
-audioBitrate: 128
+audioBitrate: 320
 
 # App name
-appName: AllTube Download
+appName: Chiraitori YT Dowloader
 
 # Generic formats supported by youtube-dl
 genericFormats:
